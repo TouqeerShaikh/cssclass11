@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 1rem;
+    text-align: center;
+}
+button{
+    text-align: left;
+    background-color: rgb(250, 21, 21);
+    color: black;
+    font-size: large;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 1%;
+}
+button:hover{
+    background-color: rgb(90, 63, 63);
+    color: white;
+    border: 3px solid yellowgreen;
+}
+#logo{
+    width: 30%;
+    height: 10vh;
+    border: 1px solid black;
+    float: left;
+}
+#banner{
+    width: 100%;
+    height: 10vh;
+    border: 1px solid black;
+}
+#bar{
+    width: 100%;
+    height: 10vh;
+    border: 1px solid black;
+}
+header{
+    margin-bottom: 5vh;
+    border: 1px solid black;
+}
+#left{
+    width: 20%;
+    height: 60vh;
+    border: 1px solid black;
+    float: left;
+    margin-bottom: 5vh;
+}
+#center{
+    width: 60%;
+    height: 60vh;
+    float: left;
+    margin-bottom: 5vh;
+}
+#top{
+    width: 100%;
+    height: 15vh;
+    border: 1px solid black;
+}
+#mid-left{
+    width: 50%;
+    height: 30vh;
+    border: 1px solid black;
+    float: left;
+}
+#mid-right{
+    width: 50%;
+    height: 30vh;
+    border: 1px solid black;
+    float: left;
+}
+#bottom{
+    width: 100%;
+    height: 15vh;
+    border: 1px solid black;
+    clear: both;
+}
+#right{
+    width: 20%;
+    height: 60vh;
+    border: 1px solid black;
+    float: right;
+    margin-bottom: 5vh;
+}
+section{
+    width: 100%;
+    height: 60vh;
+    margin-bottom: 2vh;
+    border: 1px solid black;
+}
+footer{
+    width: 100%;
+    height: 10vh;
+    border: 3px solid black;
+    clear: both;
+}
